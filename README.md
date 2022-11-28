@@ -1,0 +1,2 @@
+# yatobot
+Melhor bot yato
